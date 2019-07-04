@@ -1,0 +1,13 @@
+name: gunviolence
+title: gunviolence
+username:
+account: ntaparia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 636301
+bundleId: 1807706
+url: https://ntaparia.shinyapps.io/gunviolence/
+when: 1547156950.82694
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Intro.html|Intro.Rmd
